@@ -1,13 +1,13 @@
 This project was created with create-react-app and has linting, bundling and minification already baked in.
 
 ## Given more time
-I would have focused on writing more comprehensive tests
-Improved styling
+I would have focused on writing more comprehensive tests<br />
+Improved styling<br />
 
 ## Other npm packages used
-styled-components - For styling compoenents
-whatwg-fetch - A fetch polyfill for making http requests to the provided endpoint
-husky and cross-env - For pre-commit hooks which will run linting and test pre-commit
+`styled-components` - For styling compoenents<br />
+`whatwg-fetch` - A fetch polyfill for making http requests to the provided endpoint<br />
+`husky` and `cross-env` - For pre-commit hooks which will run linting and test pre-commit<br />
 
 ## Available Scripts
 
